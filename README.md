@@ -14,29 +14,29 @@ Jumper Cables
 Bread Board
 
 Software Requirements:
-Arduino IDE
-Jupyter Notebook
-Mysql 
-Xampp
+Arduino IDE, 
+Jupyter Notebook, 
+Mysql, 
+Xampp.
 
 Programming Languages:
 
-Python
-C Programming
-Sql
+Python, 
+C Programming, 
+Sql.
 
 Libraries Used:
 
 Arduino IDE:
-MFRC522.h --> For RFID
-LiquidCrystal_I2C.h --> For LCD Display
+MFRC522.h --> For RFID, 
+LiquidCrystal_I2C.h --> For LCD Display.
 
 Jupyter NB:
 
-tkinter
-pymysql
-pandas
-smtplib
-mlxtend
+tkinter, 
+pymysql, 
+pandas, 
+smtplib, 
+mlxtend.
 
 
